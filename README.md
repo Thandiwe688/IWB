@@ -1,2 +1,2 @@
 # IWB
-Website for some business
+website for IWB company(Makhaly's assignment)
